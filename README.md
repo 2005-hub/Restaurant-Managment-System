@@ -3,10 +3,10 @@
 Welcome to the Restaurant Management System project! This software is designed to aid restaurant management by providing various modules to handle different aspects of restaurant operations.
 
 ## Features
-Intuitive user interface
-Desktop application
-File Based Data storage
-Easy to modify design
+- Intuitive user interface
+- Desktop application
+- File Based Data storage
+- Easy to modify design
 Multiple modules:
 Item Management
 Order Management
