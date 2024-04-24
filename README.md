@@ -8,11 +8,11 @@ Welcome to the Restaurant Management System project! This software is designed t
 - File Based Data storage
 - Easy to modify design
 - Multiple modules:
--- Item Management
--- Order Management
-Labour Management
-Billing Management
-Basic Authentication
+- Item Management
+- Order Management
+- Labour Management
+- Billing Management
+- Basic Authentication
 
 ## Getting Started
 To edit and work with this project, follow these steps:
