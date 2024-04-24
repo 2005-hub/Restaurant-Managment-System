@@ -7,8 +7,8 @@ Welcome to the Restaurant Management System project! This software is designed t
 - Desktop application
 - File Based Data storage
 - Easy to modify design
-Multiple modules:
-Item Management
+- Multiple modules:
+-- Item Management
 Order Management
 Labour Management
 Billing Management
