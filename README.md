@@ -9,7 +9,7 @@ Welcome to the Restaurant Management System project! This software is designed t
 - Easy to modify design
 - Multiple modules:
 -- Item Management
-Order Management
+-- Order Management
 Labour Management
 Billing Management
 Basic Authentication
